@@ -6,3 +6,4 @@ console.log('Welcome to Vite + JS + Webflow!')
 
 createBadge()
 animateTitle()
+ const foo = BarProp
